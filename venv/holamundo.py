@@ -16,7 +16,6 @@ def persona(i):
         nombre = "El yoni"
     return nombre
 
-
 if __name__ == "__main__":
     import doctest
     print(doctest.testmod())
