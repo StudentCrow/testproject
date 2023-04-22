@@ -1,7 +1,7 @@
 def persona(i):
     """
     >>> persona(1)
-    'El toño'
+    'Cambio'
     >>> persona(2)
     'La kimberly'
     >>> persona(3)
@@ -9,7 +9,7 @@ def persona(i):
     """
     nombre = " "
     if i==1:
-        nombre = "El toño"
+        nombre = "Cambio"
     elif i==2:
         nombre = "La kimberly"
     elif i==3:
