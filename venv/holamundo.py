@@ -1,7 +1,7 @@
 def persona(i):
     """
     >>> persona(1)
-    'El toño'
+    'cambio'
     >>> persona(2)
     'La kimberly'
     >>> persona(3)
