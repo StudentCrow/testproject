@@ -5,3 +5,4 @@ print("Bye World!")
      >>> consciencia(1)
      El toño
      """
+     cuadro = " "
