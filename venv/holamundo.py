@@ -6,3 +6,4 @@ print("Bye World!")
      El toño
      """
      cuadro = " "
+     picture = "boolean"
